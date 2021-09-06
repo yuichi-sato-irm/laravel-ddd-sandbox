@@ -1,1 +1,1 @@
-# laravel-ddd-sandbox test
+# laravel-ddd-sandbox
